@@ -1,6 +1,6 @@
 # Brain-Tumor-Detection
-The Human brain is the most important and complex part of the body, it c onsists
-of 50 100 billi on neurons . Brain is made up of a huge number of cells, and each
+The Human brain is the most important and complex part of the body, it consists
+of 50-100 billion neurons . Brain is made up of a huge number of cells, and each
 cel l has its own job. Several of the bod y s cells are split to make new cells so that
 the body can work well. The death of aged or damaged cells led to formation of
 new cells, sometimes these new cells are produced more than the requirement of
